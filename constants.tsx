@@ -3,7 +3,7 @@ import { Project, SocialLink, Skill } from './types';
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     name: 'github',
-    url: 'https://github.com/lukasfrontenddev',
+    url: 'https://github.com/zynoratech',
     icon: 'Github',
     label: 'GitHub',
     color: 'bg-slate-800'
@@ -37,8 +37,8 @@ export const PROJECTS: Project[] = [
     title: 'Portfolio Website',
     description: 'Its this awesome website!',
     tags: ['Website'],
-    imageUrl: 'https://raw.githubusercontent.com/lukasfrontenddev/portfolio-website/refs/heads/main/images/website-banner.png',
-    githubUrl: 'https://github.com/lukasfrontenddev/portfolio-website',
+    imageUrl: 'https://raw.githubusercontent.com/zynoratech/zynora-tech-website/refs/heads/main/images/website-banner.png',
+    githubUrl: 'https://github.com/zynoratech/zynora-tech-website',
     liveUrl: 'https://zynoratech.vercel.app/',
     category: 'web'
   }
