@@ -20,7 +20,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <div className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-1">Email Us</div>
-                <a href="mailto:lukasrichtergeschaeftlich@gmail.com" className="text-lg font-medium hover:text-brand transition-colors">lukasrichtergeschaeftlich@gmail.com</a>
+                <a href="mailto:contact@zynora.tech" className="text-lg font-medium hover:text-brand transition-colors">contact@zynora.tech</a>
               </div>
             </div>
             
@@ -30,7 +30,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <div className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-1">Location</div>
-                <div className="text-lg font-medium text-slate-200">Duisburg, Germany / Remote</div>
+                <div className="text-lg font-medium text-slate-200">European Union / Remote</div>
               </div>
             </div>
           </div>
