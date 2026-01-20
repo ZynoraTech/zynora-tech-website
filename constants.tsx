@@ -56,6 +56,8 @@ export const SKILLS: Skill[] = [
   { name: 'PostgreSQL', level: 'Beginner', category: 'Backend' },
   { name: 'Gemini API', level: 'Learning', category: 'Backend' },
   { name: 'RESTful APIs', level: 'Intermediate', category: 'Backend' },
+  { name: 'NextJS', level: 'Intermediate', category: 'Backend' },
+  { name: 'Flutter', level: 'Intermediate', category: 'Backend' },
   
   // AI & AUTOMATION
   { name: 'n8n Workflows', level: 'Learning', category: 'AI & Automation' },
